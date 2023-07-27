@@ -1,0 +1,21 @@
+{
+  "name": "typescipt-zh-docs",
+  "version": "1.0.0",
+  "description": "TypeScript 中文文档",
+  "scripts": {
+    "docs:dev": "vitepress dev docs --port 5174",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "keywords": [
+    "typescipt",
+    "中文文档"
+  ],
+  "author": "yp910108",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "3.0.0",
+    "sass": "1.64.1",
+    "vitepress": "1.0.0-beta.6"
+  }
+}
