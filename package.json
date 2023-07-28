@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "TypeScript 中文文档",
   "scripts": {
-    "docs:dev": "vitepress dev docs --port 5174",
+    "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs"
   },
