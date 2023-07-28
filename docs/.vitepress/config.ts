@@ -33,7 +33,7 @@ export default defineConfig({
         ]
       },
       {
-        text: 'TypeScript 与 X 的区别是？',
+        text: 'TypeScript 与 X 的区别',
         items: [
           {
             text: '与 JavaScript 的区别',
