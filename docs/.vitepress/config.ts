@@ -85,6 +85,7 @@ export default defineConfig({
       prev: '上一篇',
       next: '下一篇'
     },
-    outlineTitle: '本页目录'
+    outlineTitle: '本页目录',
+    externalLinkIcon: true
   }
 })
