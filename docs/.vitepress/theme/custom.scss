@@ -7,6 +7,11 @@
 
   --vp-button-brand-active-bg: #096dd9;
 
+  --vp-custom-block-tip-border: #1890ff;
+  --vp-custom-block-tip-text: #1890ff;
+  --vp-custom-block-tip-bg: #fff;
+  --vp-custom-block-warning-bg: #fff;
+
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: -webkit-linear-gradient(
     120deg,
@@ -16,4 +21,12 @@
     #40a9ff 65%,
     #096dd9
   );
+}
+
+.dark {
+  --vp-custom-block-tip-bg: #313136;
+}
+
+.vp-doc .custom-block code {
+  font-weight: 400;
 }
