@@ -32,7 +32,7 @@ let helloWorld = 'Hello World'
 
 在 JavaScript 中你可以使用各种各样的设计模式。然而，有些设计模式使类型推断变得困难（例如，使用动态编程的模式）。为了涵盖这种情况，TypeScript 支持 JavaScript 语言的扩展，你可以显示的告诉 TypeScript 应该是什么类型。
 
-首先，通过 `interface` 关键字声明一个类型：
+首先，通过 `interface` 关键字声明一个类型（接口）：
 
 ```ts
 interface User {
